@@ -6,7 +6,7 @@ A group of people passionate about technology, coding, and creating cool (hopefu
 - [Ploxora](https://github.com/HydrenFOSS/Ploxora) - A panel for creating and managing VPSs and RDPs.
 - [Kemi](https://kemi.pkg.lat/) - A Discord-like chat application made for nerds. (Successful Project)
 - [OverSee](https://github.com/ma4z-sys/Oversee) - A Pterodactyl-like panel that lets you manage your servers while providing a user dashboard. (Successful Project)
-- [ACE](https://hydrelabs.com/ace) - An ongoing project. Coming soon!
+- [ACE](https://hydrenlabs.com/ace) - An ongoing project. Coming soon!
 
 ---
 
