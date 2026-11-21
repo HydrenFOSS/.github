@@ -1,7 +1,7 @@
 # HydrenLabs
 A group of people passionate about technology, coding, and creating cool (hopefully useful) projects. We like experimenting with new technologies, building things, and learning along the way.
 # Projects
-- [Pawn](https://pawn-io.me) - Lets you play Minecraft with your friends at a low price! Works with cracked accounts too. (Successful Project)
+- [Pawn](https://pawn-io.me) - Lets you play Minecraft with your friends for completely free! Works with cracked accounts too. (Successful Project)
 - [Talorix](https://github.com/Talorix) - A Pterodactyl-like panel built with Node.js.
 - [Ploxora](https://github.com/HydrenFOSS/Ploxora) - A panel for creating and managing VPSs and RDPs.
 - [Kemi](https://kemi.pkg.lat/) - A Discord-like chat application made for nerds. (Successful Project)
